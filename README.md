@@ -25,3 +25,11 @@ npx tomterpreter main.toml
 ```
 Result:
 170
+
+# Languages
+- basic (Basic, BASIC)
+- javascript (JavaScript, Javascript)
+-  bash (Bash)
+-  python (Python)
+-  asciiscript (AsciiScript, Asciiscript)
+-  c++ (C++, cpp)
